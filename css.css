@@ -1,0 +1,27 @@
+
+#container1{
+
+background-color: 000fff;
+left:1% ;
+right:100%;
+top:1%;
+height:935px;
+width: 1820px;
+position: absolute;
+
+
+
+}
+
+#img{
+	
+background-repeat: no-repeat;
+/*background-image: url('file:///home/cristhian/Documentos/teste1/img/5.jpeg');*/
+/*width: -50px;
+height: -80px;*/
+margin-left: 15%;
+margin-top: 5%;
+/*min-width: 50%;
+min-height: 50%;*/
+}
+
